@@ -1,0 +1,4 @@
+node_modules
+# Ignore file generate by scripts
+docs/src/dts.js
+dist
