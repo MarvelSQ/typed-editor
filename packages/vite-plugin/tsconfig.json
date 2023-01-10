@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "Node"
+  },
+  "references": [{ "path": "../../tsconfig.json" }],
+  "include": ["src"]
+}
